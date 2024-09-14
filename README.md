@@ -1,2 +1,3 @@
 # rust_for_fufu
-rust_learning
+## rust1
+this is fufu's stupid rust_learning
